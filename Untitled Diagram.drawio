@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="Page-1" id="b9YBrv8WQebUkIXSKBUp">
-    <mxGraphModel dx="2122" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="707" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,6 +171,27 @@
         </mxCell>
         <mxCell id="vRo_Gx2xG8cZCAOY3_mm-74" value="Layer Normalization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1080" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-76" value="Additive Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-77" value="Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-79" value="Concatenate with Decoder Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="1150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRo_Gx2xG8cZCAOY3_mm-82" value="Dense ReLU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="1210" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
